@@ -1,0 +1,14 @@
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/bin/Debug/net9.0/DesafioBackend
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/bin/Debug/net9.0/DesafioBackend.deps.json
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/bin/Debug/net9.0/DesafioBackend.runtimeconfig.json
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/bin/Debug/net9.0/DesafioBackend.dll
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/bin/Debug/net9.0/DesafioBackend.pdb
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/obj/Debug/net9.0/DesafioBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/obj/Debug/net9.0/DesafioBackend.AssemblyInfoInputs.cache
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/obj/Debug/net9.0/DesafioBackend.AssemblyInfo.cs
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/obj/Debug/net9.0/DesafioBackend.csproj.CoreCompileInputs.cache
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/obj/Debug/net9.0/DesafioBackend.dll
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/obj/Debug/net9.0/refint/DesafioBackend.dll
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/obj/Debug/net9.0/DesafioBackend.pdb
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/obj/Debug/net9.0/DesafioBackend.genruntimeconfig.cache
+/Users/danilosrocha/RiderProjects/DesafioBackend/DesafioBackend/obj/Debug/net9.0/ref/DesafioBackend.dll
